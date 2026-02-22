@@ -1,0 +1,295 @@
+
+
+Fatal error: Exception code=C0000005 @ 28/05/2013 02:51:27 PM. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  formbeli.texttgl2.lostfocus line 8  {d:\vianos\beli.sct d:\vianos\beli.sct}
+	Called from -  formstok.labelbeli.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 28/05/2013 02:51:29 PM. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  formbeli.texttgl2.lostfocus line 8  {d:\vianos\beli.sct d:\vianos\beli.sct}
+	Called from -  formstok.labelbeli.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 28/05/2013 02:53:14 PM. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  formlapjual.tombolcetak.click line 13  {d:\vianos\lapbeli.sct d:\vianos\lapbeli.sct}
+	Called from -  formbeli.texttgl2.lostfocus line 8  {d:\vianos\beli.sct d:\vianos\beli.sct}
+	Called from -  formstok.imagebeli.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 28/05/2013 03:12:28 PM. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  formlapjual.tombolcetak.click line 13  {d:\vianos\lapbeli.sct d:\vianos\lapbeli.sct}
+	Called from -  formbeli.texttgl2.lostfocus line 8  {d:\vianos\beli.sct d:\vianos\beli.sct}
+	Called from -  formstok.imagebeli.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 28/05/2013 03:17:40 PM. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  formlapjual.tombolcetak.click line 13  {d:\vianos\lapbeli.sct d:\vianos\lapbeli.sct}
+	Called from -  formbeli.texttgl2.lostfocus line 8  {d:\vianos\beli.sct d:\vianos\beli.sct}
+	Called from -  formstok.imagebeli.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 28/09/2013 14:05:43. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  formlapjual.tombolcetak.click line 13  {d:\vianos\lapbeli.sct d:\vianos\lapbeli.sct}
+	Called from -  formbeli.texttgl2.lostfocus line 8  {d:\vianos\beli.sct d:\vianos\beli.sct}
+	Called from -  formstok.labelbeli.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 02/11/2013 03:42:05. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  formlapjual.tombolcetak.click line 13  {d:\vianos\lapbeli.sct d:\vianos\lapbeli.sct}
+	Called from -  formbeli.texttgl2.lostfocus line 8  {d:\vianos\beli.sct d:\vianos\beli.sct}
+	Called from -  formstok.imagebeli.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 20/02/2014 12:06:34. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  ctgl line 76  {D:\Vianos\prosaku.prg prosaku.fxp}
+	Called from -  formstok.timer1.timer line 3  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  formbeli.texttgl2.lostfocus line 8  {d:\vianos\beli.sct d:\vianos\beli.sct}
+	Called from -  formstok.imagebeli.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 20/02/2014 12:06:36. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  ctgl line 76  {D:\Vianos\prosaku.prg prosaku.fxp}
+	Called from -  formstok.timer1.timer line 3  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  formbeli.texttgl2.lostfocus line 8  {d:\vianos\beli.sct d:\vianos\beli.sct}
+	Called from -  formstok.imagebeli.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:56. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:56. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:57. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:57. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:57. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:57. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:57. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:57. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:57. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:57. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:58. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:58. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:58. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:58. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:58. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:58. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:58. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:58. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:59. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:59. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:59. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:59. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:59. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:59. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:59. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:17:59. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:00. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:00. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:00. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:00. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:00. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:00. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:00. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:00. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:01. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:01. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:01. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19/06/2017 22:18:01. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  form1.tombolmulai.click line 134  {d:\vianos\kickoff.sct d:\vianos\kickoff.sct}
+	Called from -  formstok.imagekickoff.click line 7  {d:\vianos\futsal.sct d:\vianos\futsal.sct}
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}
+
+
+Fatal error: Exception code=C0000005 @ 28/03/2020 10:40:06 AM. Error log file: D:\Vianos\VFP8Rerr.log
+	Called from -  futsal line 34  {D:\Vianos\futsal.prg d:\vianos\vianos.exe}

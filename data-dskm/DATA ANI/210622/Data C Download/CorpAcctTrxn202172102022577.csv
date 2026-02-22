@@ -1,0 +1,13 @@
+"Informasi Rekening - Mutasi Rekening"," "," "," "," ",
+
+"No. rekening : 1348247777"
+"Nama : KARTIKA DEWI CAHYADI"
+"Periode : 01/07/2021 - 02/07/2021"
+"Kode Mata Uang : Rp"
+"Tanggal Transaksi","Keterangan","Cabang","Jumlah","Saldo"
+"01/07","TRSF E-BANKING CR 0107/ACSCY/0000100 21070100617236  2021/07/01(30500) DisburseFIF Pymt  FEDERAL INTERNATIO ","0319","41,500,000.00 CR","303,778,961.37"
+"Saldo Awal : 262,278,961.37"
+"Mutasi Debet : 0.00","0"
+"Mutasi Kredit : 41,500,000.00","1"
+"Saldo Akhir : 303,778,961.37"
+
